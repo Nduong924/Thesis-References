@@ -1,8 +1,18 @@
-# Danh mục Tài liệu tham khảo Luận án
+# 📚 DANH MỤC TÀI LIỆU THAM KHẢO LUẬN ÁN
 
-## 1. Sách và Giáo trình
-* [Tên sách 1](đường-dẫn-đến-file-pdf-trong-repo-hoặc-link-web) - Ghi chú: Đọc kỹ chương 3.
-* [Tên sách 2](link) - Dùng cho cơ sở lý thuyết.
+> **Mẹo tìm kiếm nhanh:** Nhấn `Ctrl + F` (hoặc `Cmd + F` trên Mac) để tìm kiếm theo Từ khóa, Tác giả, Thuật toán hoặc Chương.
 
-## 2. Bài báo khoa học (Papers)
-* **Tác giả A (2024):** "Tên bài báo" - [Xem PDF](link-file). *Bài này rất quan trọng về thuật toán.*
+---
+
+## 📑 BẢNG TỔNG HỢP TÀI LIỆU
+
+| STT | Tên Tài Liệu / Bài Báo | Tác Giả & Năm | Từ Khóa / Thuật Toán | Thuộc Chương | Link / File | Trạng Thái | Ghi Chú / Ứng Dụng |
+| :---: | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+
+
+---
+
+## 📌 GHI CHÚ KÝ HIỆU TRẠNG THÁI
+* 🟢 **Đã đọc:** Đã trích dẫn hoặc đã lọc xong ý chính để đưa vào luận án.
+* 🟡 **Đang đọc:** Tài liệu quan trọng, đang trong quá trình nghiên cứu.
+* 🔴 **Chưa đọc:** Tài liệu mới lưu về, cần đọc xơ lược sau.
